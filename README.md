@@ -15,7 +15,21 @@ What's Cookin' is a recipe tracking / meal planning application that allows user
 
 ## Usage and Demonstration
 
-Please see our demo video [here](https://www.youtube.com/watch?v=aHChq0GsRFE).
+  * On load the user can see all recipes and a list of tags to filer them
+  
+![Screen Shot 2021-10-25 at 7 12 41 AM](https://user-images.githubusercontent.com/81398850/138701797-81bd15b4-b283-46d3-a23f-00538572f1fe.png)
+
+  * After clicking a recipe the user can see the recipe details, and can save it as favorite and/or want to cook
+  
+![Screen Shot 2021-10-25 at 7 15 04 AM](https://user-images.githubusercontent.com/81398850/138702204-f5d897be-bede-4cc3-bc5a-2de08cc0687f.png)
+
+  * When trying to cook a recipe the user will see a message if there are missing ingredients from the recipe and it will be presented with the option to get the ingredients
+
+![Screen Shot 2021-10-25 at 7 16 53 AM](https://user-images.githubusercontent.com/81398850/138702478-f16b2e8c-6332-43b9-9be9-ccc48c11401a.png)
+
+  * After buying the ingredients the user can cook the recipe, at any point the user can visit favorites, want to cook or pantry sections
+  
+![Screen Shot 2021-10-25 at 7 18 07 AM](https://user-images.githubusercontent.com/81398850/138702670-21dd1cf2-9697-4c6d-8d7b-50849c19227c.png)
 
 ## Programming Languages and Dependencies
 
